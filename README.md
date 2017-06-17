@@ -1,8 +1,4 @@
 
-## Ionic Login Feature
+## BASIC CRUD using Ionic and AngularFire2
 
-Login Feature using Ionic 3 and AngularFire2.
-
-Comes complete with Authentication, New User Signup and ForgetPassword
-
-
+Firebase connection and CRUD operations using Angular and Ionic Framework
